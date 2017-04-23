@@ -1,7 +1,6 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Coder Manual Poroject Application Filtermon web application. 
 
 Things you may want to cover:
 
